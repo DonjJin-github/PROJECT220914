@@ -13,7 +13,7 @@ public class BitOperator {
         byte c = 20;        
         byte d = -8;        
 
-        // 비트 시프트 연산
+
         System.out.println("[시프트 연산 결과]");
         System.out.println(c << 2);          
         System.out.println(c >> 2);         
